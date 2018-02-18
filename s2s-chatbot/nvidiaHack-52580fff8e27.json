@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nvidiahack-d0e6d",
+  "private_key_id": "52580fff8e2722a388f6eae1022a69eb134e8155",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyUZlusIZIwdq9\nWPgwIfLgd4riMiUTZf4qhl5IPfz8OBt3516Y8EIRqOdkY6lJy/nYO0YC3rezfz05\nUXghUevvdN1T3g+pxemOaZdV6wN89z11ScwavxTzl0y4wuVc5p2XBsUV6tXbexSM\naT2tz4HYYcJlcehvbENZyFDhMmsoAnbUaeM0DR2bwSDb5eDPkx49f7QGUR+JoVC/\nFogOjC+INSqj/TzRclYyQDDx5IBUqnls1/OR2716Hf0661WH2wW4NtmdGWgFQ1TP\nYPQZAfXtCTQmQp69zNSLDuaZT/YFAp1g74Uf0M+g5+u2WCFsOX8u6IgmD7MoMUqj\nk7IWv4ElAgMBAAECggEAAhHCQQXxg2a9uHZPzqEwoOwj04Tg9MUGSm1YqttBtElp\nzWR4O56hw0CaSz1nCy+Mjl0yIaZ+uI//GiS8CxwlnvFuGYMDDzjE59pWWQP0vHT5\nd9yIiGPtmCqwlErthfxs8w7igSL1r30enscge3cKkV2hd6adghOEnMYsGBzxbOhF\nBXSIec7isGK8tjkoM98/tvxngZnRtyFCy3Ywo4kQe9NEpn0ZJ02I1jFBcSJaHRuL\nzmkm5bkkxftQq7Koxaaf+S7BLL6Xh2UI31jPlA6QbjKxtiHrGhOduNwmk/Jah61m\nCHDYThyNZq5eLgw4VSH+5NsvRavqE+aX45mvrsz/aQKBgQDv2Nk31MUTDoRUr77A\nMC6fjbQGX8OH06YeXvXayKeDtlUnJ8/agMYswBupsOlmjt3mXXnLAIbUneoEnspW\nTUw93bBnnuwljjnEH+o/vMGQ9PQ1BeKZHNjxslqzI4biNvU4qTi94GJUaFOlSewy\nHpX8UJOVYSTIBLkO7ajQzhl/KQKBgQC+U/RTZ7Wa4MW+VbMX3HwT+Sac784hQxuv\n4q64pDlRu5MkiWf0bqJAqX+32GKJwXh0LMAFkd+OQZLS4785qKj+WKxCdylY4xBo\nwRLLKK/p6989FdRbDyHVDdQMHNQkeRGDZvRgkPQFxUEQcddEDs2YBef7WbLgBpUZ\nmTbFlgn9nQKBgGQNltfGh4uik6tsQOuVbe2bRE0gZ8Xikbq7rF3fNJoqVq1l2zxw\nWbtTTHbmWQcyc/jkZ6k6iARr97KDty53QmXQdAVV83bbNNfO5H5ANJNOzAzObq+m\nrA1vdIykNmFpwbQoS4ZR81L4zmP2SXTC85h02IwJITnbVoOWusSYJWS5AoGBAIp6\nRQNGKtDkB5wDeIm85x4VIi3/IIf87rEbCirXecjo5BcqTlN/B1hqur1Fl/RIqt5E\nDPZAe1pihXQhNmm6ODLOy46UaqX8l1zQVV8xXESjVEp6joYuTVxZclXZx9Q9ritg\nBiAYdyOXsE5JtekTqCya531udwIeZ+83Fa3PC7fVAoGBANNsAg96w3v6e9KDc9T6\nmM8dH32no0WURRWjzGOn/yEmvNCimQEUZGpQf48EW21/ceB3tMxmHbC3JVpIIdrY\n1RsnVSj5S+vdNP6aUq3jMNRRJ6qXtlnYxyyxJnaYSjMpTWLs1RoSIqV6pXrTOm4y\nCwm5TfabW/hoYETrSN5AmzoC\n-----END PRIVATE KEY-----\n",
+  "client_email": "nvidia@nvidiahack-d0e6d.iam.gserviceaccount.com",
+  "client_id": "100613090619353999075",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nvidia%40nvidiahack-d0e6d.iam.gserviceaccount.com"
+}
