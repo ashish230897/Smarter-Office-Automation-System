@@ -58,5 +58,5 @@ Steps:
 
 1)Run the req.txt file first to install dependencies
 2)Then run the training.py file to the train the deep learning model. 
-3) Finally run the chatbot2.py file 
+3) Finally run the chatbot.py file 
 and flask will run it on a local server.
