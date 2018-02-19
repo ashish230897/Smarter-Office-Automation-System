@@ -89,3 +89,4 @@ def model(encode_seqs, decode_seqs,xvocab_size,emb_dim,is_train=True, reuse=Fals
                     name = 'seq2seq')
             net_out = DenseLayer(net_rnn, n_units=xvocab_size, act=tf.identity, name='output')
         return net_out, net_rnn
+#Credits to tensorlayer for parts of the model.
