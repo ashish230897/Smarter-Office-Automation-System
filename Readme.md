@@ -1,3 +1,5 @@
+## Smarter Office Automation System  
+
 This is our code submission for the **NVIDIA JETSON TX2 CHALLENGE** where we present our project of ***SMART OFFICE AUTOMATION SYSTEM***.  
 The demo for the same can be viewed here : [https://www.youtube.com/watch?v=9EYaO3AIqws&t=1s](https://www.youtube.com/watch?v=9EYaO3AIqws&t=1s)
 
